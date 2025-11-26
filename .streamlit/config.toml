@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#0f766e"           # teal health-care accent
+backgroundColor = "#f5fbff"        # very light blue
+secondaryBackgroundColor = "#ffffff"
+textColor = "#0f172a"              # dark slate
+font = "sans serif"
