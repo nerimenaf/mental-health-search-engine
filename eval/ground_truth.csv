@@ -1,0 +1,21 @@
+query_id,query_text,doc_id,relevant
+Q1,"how can I maintain social connections",9100298,1
+Q1,"how can I maintain social connections",2884887,0
+
+Q2,"how can I take care of my physical health",2884887,1
+Q2,"how can I take care of my physical health",9100298,0
+
+Q3,"how can I use distraction to manage difficult thoughts or feelings",9250044,1
+Q3,"how can I use distraction to manage difficult thoughts or feelings",9100298,0
+
+Q4,"difference between mental health and mental illness",7995219,1
+Q4,"difference between mental health and mental illness",4893447,0
+
+Q5,"difference between anxiety and stress",8612349,1
+Q5,"difference between anxiety and stress",4893447,0
+
+Q6,"difference between sadness and depression",6062232,1
+Q6,"difference between sadness and depression",2903196,0
+
+Q7,"help for suicidal thoughts what should I do",1337085,1
+Q7,"help for suicidal thoughts what should I do",9100298,0
